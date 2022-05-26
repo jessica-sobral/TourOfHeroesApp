@@ -1,7 +1,3 @@
-// ng new angular-tour-of-heroes
-// cd angular-tour-of-heroes
-// ng serve --open
-
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
